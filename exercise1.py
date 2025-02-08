@@ -1,0 +1,1 @@
+greek_island = "Santorini"
